@@ -13,6 +13,8 @@ I focus on performance, system reliability, and production-ready delivery.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelali%20Oulddaouia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelali-ould-daouia-6a994996/)
 [![Email](https://img.shields.io/badge/Email-a.oulddaouia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.oulddaouia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-abed--ctrl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abed-ctrl)
+[![Website](https://img.shields.io/badge/Website-cleverali.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cleverali.com)
+
 
 ---
 

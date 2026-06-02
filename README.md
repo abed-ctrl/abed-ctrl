@@ -22,13 +22,13 @@ I focus on performance, system reliability, and production-ready delivery.
 
 ### 🧠 Backend Engineering
 - REST API architecture & secure authentication (RBAC)
-- Express.js, FastAPI, Spring Boot
+- Laravel, FastAPI, Spring Boot
 - PostgreSQL optimization & database design
 - MySQL & MongoDB
 - AWS S3 secure file storage
 
 ### 🌐 Frontend Engineering
-- Next.js & React.js
+- Vue.js & React.js
 - Zustand state management
 - Scalable dashboard architecture
 - Tailwind CSS / Material UI
@@ -68,8 +68,8 @@ Remote | 12/2025 – Present
 Built a full real estate management platform:
 
 - Designed PostgreSQL schema (properties, clients, payments)
-- Developed backend APIs with Express.js
-- Built operational dashboard using Next.js
+- Developed backend APIs with Laravel
+- Built operational dashboard using Vue.js
 - Implemented automated PDF invoicing
 - Integrated AWS S3 for secure document storage
 - Managed Docker-based deployment
@@ -103,11 +103,13 @@ Final Project: Online Voting System (VoteSys)
 ## 🛠 Tech Stack
 
 ### Languages
+![PHP](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ### Frameworks
+![Larvel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
